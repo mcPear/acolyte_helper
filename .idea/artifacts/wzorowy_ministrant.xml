@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="apk" build-on-make="true" name="wzorowy_ministrant">
+    <output-path>$PROJECT_DIR$/build/classes/artifacts/wzorowy_ministrant</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyAlias" value="key0" />
+        <option name="keyPassword" value="cGVuc2VhaXNyY2g=" />
+        <option name="keyStorePassword" value="cGVuc2VhaXNyY2g=" />
+        <option name="keyStoreUrl" value="file://$PROJECT_DIR$/../intellij_android.jks" />
+        <option name="proGuardCfgFiles">
+          <list>
+            <option value="file://%MODULE_SDK_HOME%/tools/proguard/proguard-android.txt" />
+          </list>
+        </option>
+        <option name="signingMode" value="RELEASE_SIGNED" />
+      </options>
+    </properties>
+    <root id="archive" name="wzorowy_ministrant.apk">
+      <element id="android-final-package" facet="app/android/Android" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Wzorowy ministrant</string>
+    <string name="tab_text_1">Przygotowanie do Mszy Św.</string>
+    <string name="tab_text_2">Sprzątanie po Mszy Św.</string>
+    <string-array name="przygotowanie_lista">
+        <item>1. Pomódl się chwilę</item>
+        <item>2. Załóż albę - przygotowanie do mszy to już służba</item>
+        <item>3. Sprawdź czy kościół jest otwarty, schowaj potykacz do środka</item>
+        <item>4. Zapal tealighty w lampkach koło zakrystii</item>
+        <item>5. Zapal świeczki koło tabernakulum. Jeśli nie ma adoracji przed mszą połóż tam kluczyk</item>
+        <item>6. Podłącz mikrofony (najkrótszy na małą ambonkę, średni na miejsce przewodniczenia, najdłuższy na górną ambonę)</item>
+        <item>7. Zdejmij narzutę z kredensji i zobacz czy w prezbiterium jest porządek (jakieś małe karteczki niepotrzebne, długopisy, inne rzeczy zostawione tam bez powodu) zlikwiduj je ;p</item>
+        <item>8. Wynieś na kredensję tackę z dodatkowymi komunikantami i korporał. Zadbaj żeby na tacce była też dodatkowa hostia.</item>
+        <item>9. Przygotuj kielich - kolor welonu i palki sprawdź w kalendarzu liturgicznym. Wyciągnij korporał, na patenę nałóż komunikanty i hostię. Puryfikaterz weź z suszarki. Jeśli wyciągniesz nowy to ten z suszarki zabierasz do domu i pierzesz sam i ładnie wyprasowany przynosisz w niedzielę ;p</item>
+        <item>10. Wynieś kielich na kredensję (zanieś sam kielich - nie noś dziesięciu rzeczy w 4 rękach. W kielichu będzie za chwilę Krew Pańska, a w patenie Ciało Pańskie. Traktuj je z szacunkiem.</item>
+        <item>11. Jeśli jest dwóch księży i dużo ludzi na mszy (niedziela, uroczystość, rekolekcje itd.) przygotuj dodatkowe naczynie do komunii pod dwiema postaciami.</item>
+        <item>12. Przygotuj ampułki z winem i wodą. W tygodniu nie nalewaj nigdy więcej niż 1\/2 ampułki wina. Wynieś na kredensję ampułki i lawabo.</item>
+        <item>13. Wyciągnij lekcjonarz i upewnij się jakie są czytania. Rok I czy II w tygodniu, Rok A, B czy C w niedzielę.</item>
+        <item>14. Jeśli umiesz ustaw mszał, jeśli nie pomiń ten punkt - Ksiądz sobie poradzi, ale powiedz mu o tym przed mszą.</item>
+        <item>15. Sprawdź intencję na dany dzień i napisz ją na małej karteczce.</item>
+        <item>16. Wyciągnij ornat i albę dla księdza.</item>
+        <item>17. W niedzielę przygotuj koszyk na tacę</item>
+        <item>18. 5\-7 minut przed mszą wynieś świeczki na ołtarz i zapal. Nie martw się, że  trwa adoracja. Zabierz ze sobą lampkę oliwną, zgaś ją i odłóż. Nie odkładaj jej nigdy na podłogę.</item>
+        <item>19. Zapal światła w Kościele - instrukcja jest w szafce z włącznikami</item>
+        <item>20. Włącz wzmacniacz, chyba że schola jeszcze się podpina to wtedy zrób to później.</item>
+        <item>21. Wyznacz funkcje na mszy.</item>
+        <item>22. Kiedy ksiądz idzie schować Najświętszy Sakrament wychodzimy z zakrystii i przyjmujemy błogosławieństwo Najświętszym Sakramentem.</item>
+        <item>23. Kiedy Ksiądz wróci nie rozmawiamy już. Schowaj monstrancję i przygotuj się do mszy.</item>
+    </string-array>
+    <string-array name="sprzatanie_lista">
+        <item>1. Odbierz od Księży szaty liturgiczne. Alby wieszamy na wieszak z imieniem księdza. Ornaty na puste wieszaki, stułę wieszamy w środku (nie na kołnierzu ornatu!!!)</item>
+        <item>2. Przynieść do zakrystii kielich, ampułki, lawabo - mokre ręczniczki i puryfikaterz powieś na suszarce. Resztę pochowaj na swoje miejsce.</item>
+        <item>3. Przynieś resztę rzeczy z kredensji i schowaj na miejsce</item>
+        <item>4. Przynieś i schowaj na miejsce lekcjonarz</item>
+        <item>5. Przynieś i schowaj KLUCZYK DO TABERNAKULUM!!!</item>
+        <item>6. Zgaś świeczki na ołtarzu i przynieś do zakrystii - nie odkładaj na brudną podłogę tylko na ławkę.</item>
+        <item>7. Zgaś lampki przy tabernaklum. Sprawdź poziom oleju, jeśli jest mało - uzupełnij.</item>
+        <item>8. Wyłącz wzmacniacz i przynieś mikrofony.</item>
+        <item>9. Okryj ołtarz i kredensję narzutą</item>
+        <item>10. Zamknij kościół, sprawdż czy na pewno schowałeś potykacz, zgaś lampkę w kruchcie</item>
+        <item>11. Wyrzuć zużyte zapałki (sprawdź czy nie ma zużytych w pudełku)</item>
+        <item>12. Jeśli widzisz że nie ma czegoś na następny dzień (komunikanty się kończą, nie ma wina albo wody, świeczki się kończą, olej itd.) powiedz to od razu odpowiedzialnym za zakrystię albo księdzu Adamowi</item>
+        <item>13. Zgaś światła w kościele, nie gaś wiecznej lampki, bo wtedy nie będzie już wieczna ;p</item>
+        <item>14. Nie gaś nigdy tealightów w kinkietach - wypalą się same.</item>
+        <item>15. Podłącz tablet do ładowarki.</item>
+        <item>16. Zamknij kościół i odnieś klucze na górę</item>
+    </string-array>
+</resources>
